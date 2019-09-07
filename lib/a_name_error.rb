@@ -1,3 +1,3 @@
-var "hello world"
+name = "hello world"
 
 hello_world
